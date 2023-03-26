@@ -1,6 +1,13 @@
-<h1 align="center">Hi 👋, I'm Bankole Ayoade</h1>
-<h3 align="center">A passionate Blockchain Developer and Machine/Deep Learner</h3>
-
+<h2 align="center">Hi 👋, I'm Bankole Ayoade, a chartered Accountant with 15 years hand-on experience</h1>
+<h3 align="center"> 🤝🏻 I'm open for collaborations in Data Science and Machine Learning domains.</h2>
+<h3 align="center">📌 Scroll down to see my Pinned Repositories.</h2>
+<h3 align="center">🎓 A passionate Blockchain Developer and Machine/Deep Learner</h3>
+<p align="left">def anuj():</p>
+<p align="left">skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate', 'DSA': 'Intermidiate', 'HTML & CSS': 'Beginner'}</p>
+<p align="left">tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask', 'tableau']</p>
+<p align="left">cloud_architecture = ['heroku', 'aws sagemaker']</p>
+<p align="left">active_blogger = True</p>
+<p align="left">return ∞</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acaaattunde2012&label=Profile%20views&color=0e75b6&style=flat" alt="acaaattunde2012" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acaaattunde2012" alt="acaaattunde2012" /></a> </p>
